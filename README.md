@@ -1,5 +1,5 @@
 # PWSCUP-2017-judge-system-reproduction
-Reproducing the judge system of [PWSCUP 2017](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html) for educational and practice purposes. The judgement codes were provided by the PWSCUP 2017 Committee.
+Reproducing the judge system of [PWSCUP 2017](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html) for educational and practice purposes. The judgement codes (static/pwsdata/) were provided by the PWSCUP 2017 Committee.
 
 ## Requirement & Installation
 
