@@ -1,13 +1,13 @@
 # PWSCUP-2017-judge-system-reproduction
-Reproducing the judge system of [PWSCUP 2017](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html) for educational and practice purposes. The judgement codes (static/pwsdata/) were provided by the PWSCUP 2017 Committee.
+Reproducing the judge system of [PWSCUP 2017](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html) for educational and practice purposes. The codes of judge algorithm (static/pwsdata/) were provided by the PWSCUP 2017 Committee.
 
 ## Requirement & Installation
 
-**Ruby** (for executing judgement codes)
+**Ruby** (for executing codes of judge algorithm)
 
 Follow the installation instructions of [Ruby's official page](https://www.ruby-lang.org/en/downloads/)
 
-**Python 3.X** (for executing judgement codes)
+**Python 3.X** (for executing codes of judge algorithm)
 - Pandas
 - Numpy
 
@@ -94,7 +94,7 @@ python app.py
 
 First of all, register an account. Note that when you submit your files, please make sure that you do follow the following rules strictly. This system was wrote by myself within only one week, so the examination of the system is not perfect. You might trigger some bugs (e.g. filename inconsistency) which would shut the system down if you don't follow the rules. Unfortunately, I have no time to fix those bugs currently, so please do follow the rules strictly.
 
-The data format of AT and Fh files should follow the rules of PWSCUP 2017, or they will not pass the data check. You can download the rules documents, sample data, and judgement codes from [PWSCUP 2017 official webpage](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html).
+The data format of AT and Fh files should follow the rules of PWSCUP 2017, or they will not pass the data check. You can download the rules documents, sample data, and the codes of judge algorithm from [PWSCUP 2017 official webpage](http://www.iwsec.org/pws/pwscup/PWSCUP2017.html).
 
 ### Anonymization
 
