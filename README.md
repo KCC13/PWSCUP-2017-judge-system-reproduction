@@ -106,7 +106,7 @@ If the upload is successful, you shall see the check symbol as shown in the foll
 
 After that, please click the submit button, the system will take some time to check the format of your AT file, please do not close the page during that period.
 
-The system will show you the confirmation message as shown in the following image after the data checking is done, please click the submit button to finish your submission if all the messages are correct.
+The system will show you the confirmation message as shown in the following image after the data check is done, please click the submit button to finish your submission if all the messages are correct.
 
 ![pic2](https://i.imgur.com/gHovQw7.png)
 
